@@ -43,7 +43,7 @@ public class My_Methods
 		{
 			System.out.println(e.getMessage());
 		}
-		System.out.println("Captured Screenshot");
+		System.out.println("Captured Screenshot Succesfully");
 		
 	}
 }
